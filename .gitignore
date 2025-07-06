@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+.pixi
+
+# Java
+# Compiled class files
+*.class
+
+# Build tool outputs
+target/
+build/
+out/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+hs_err_pid*
+
+# Gradle
+.gradle/
